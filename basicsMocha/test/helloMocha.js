@@ -31,7 +31,6 @@ describe('Mathematical Operations - Test Suite', function(){
 
     assert.equal(c,0);
 
-
   });
 
   it('Multiplication of two numbers', function(){
